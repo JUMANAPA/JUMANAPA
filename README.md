@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Jumana PA
+I'm currrently BCA student.
 
 <!--
 **JUMANAPA/JUMANAPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
